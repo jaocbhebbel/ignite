@@ -1,0 +1,16 @@
+.banner {
+	
+	display: flex;
+	flex-direction: row;
+	
+	border: 5px solid red;
+	border-radius: 8px;	
+
+
+	height: 200px;
+	width: 100%;
+
+	background-color: orange;
+
+
+}

@@ -1,6 +1,24 @@
-# IGNITE Project
+### IGNITE Project
 
-The IGNITE Project is a collection of RPI backtests made accessible online. Its purpose is to give RPI students a useful tool to prepare for exams.
+IGNITE is an RPI study tool; an online repository of back exams. Browse, upload, and contribute at your leisure. Find back exams by clicking your major and course, then see all exams available for that class. Additionally, use our search bar for more complicated queries. Feel free to issue pull requests and discuss the project in our discord: *link here at some point*
+
+
+
+## Recognition Board:
+
+Developers: Jacob Hebbel
+
+Past Contributors: Carina Liu
+
+
+
+## Current Objectives:
+- move the server from apache2 -> heroku
+- move the database from mariaDB -> postgreSQL
+- finish php code
+- start on frontend in html / css / js
+
+
 
 ## Website Design
 
